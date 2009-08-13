@@ -202,6 +202,9 @@ distributions.
 
 (contributed by brian d foy)
 
+The full answer to this can be found at
+http://cpan.org/modules/04pause.html#takeover
+
 The easiest way to take over a module is to have the current
 module maintainer either make you a co-maintainer or transfer
 the module to you.
